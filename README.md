@@ -1,2 +1,2 @@
 # mongo_learning
-Mongo DB learninh
+Mongo DB learning
